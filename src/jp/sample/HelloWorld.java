@@ -40,7 +40,7 @@ public class HelloWorld {
 		data[32] = "";
 		data[33] = "";
 		data[34] = "";
-		data[35] = "4161202 ポタリング";
+		data[35] = "4161202 デジタルペイント";
 		data[36] = "";
 		data[37] = "おわり";
 
